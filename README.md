@@ -2,7 +2,7 @@
 
 Run git Clone or Download to local host:
 
-``` git clone https://github.com/aku345/fabelio.git . ```
+``` git clone https://github.com/askinas/fabelio.git . ```
 
 Once you've cloned the project to your host we can now start the app. Navigate to the directory in which you cloned the project. Run the following commands from this directory to install project code
 
